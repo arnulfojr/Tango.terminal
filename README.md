@@ -9,4 +9,6 @@ with [iTerm2][1].
 Just double-click on the `Tango.terminal` file to add a "Tango" profile to
 your terminal.
 
+Or just simply call in the terminal `open Tango.terminal` file to add it automatically.
+
 [1]: http://www.iterm2.com/
